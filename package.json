@@ -2,10 +2,11 @@
   "name": "express-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webservices.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "mada": "nodemon --inspect index2.js"
+    "mada": "nodemon --inspect index2.js",
+    "start": "webservices.js"
   },
   "keywords": [],
   "author": "",
